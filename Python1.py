@@ -16,3 +16,4 @@ while i <= 34:
     print(i)
     sum = i
     i += total
+    #sdjflsdjklfsldjfklsdjfksdjf
